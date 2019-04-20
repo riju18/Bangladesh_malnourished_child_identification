@@ -1,0 +1,15 @@
+# data preprocessing:
+# ----------------------
+
+
+i)   str to int ;
+ii)  null value processing;
+iii) data balance;
+iv)  data scaling;
+
+
+
+# best result:
+# -----------------
+
+random forest. 
