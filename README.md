@@ -33,6 +33,7 @@
          
          residence	 : rural or urban
          
+         
          sex                : male or female
          
          
