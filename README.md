@@ -54,11 +54,12 @@
          
          wasting     : child is wasting or not
 # statistics:
+# number of district:
+ ![district](https://user-images.githubusercontent.com/18087611/58347885-d373b500-7e80-11e9-8e94-4e208aafe55f.png)
+  ![acc_stun](https://user-images.githubusercontent.com/18087611/58347884-d373b500-7e80-11e9-8aba-beb2e9c168c9.png)
   ![acc_under](https://user-images.githubusercontent.com/18087611/58347876-d1115b00-7e80-11e9-9895-ee66d5f4bfb0.png)
   ![acc_was](https://user-images.githubusercontent.com/18087611/58347877-d1a9f180-7e80-11e9-89c8-d7847150de99.png)
 ![newplot (3)](https://user-images.githubusercontent.com/18087611/58347878-d2428800-7e80-11e9-973b-f01e53ca3e61.png)
 ![newplot (4)](https://user-images.githubusercontent.com/18087611/58347880-d2428800-7e80-11e9-95e1-6e0bf62adb6a.png)
 ![newplot (5)](https://user-images.githubusercontent.com/18087611/58347881-d2428800-7e80-11e9-8515-b9879c059c69.png)
 ![newplot (6)](https://user-images.githubusercontent.com/18087611/58347883-d2db1e80-7e80-11e9-95e0-54514a4987a6.png)
-![acc_stun](https://user-images.githubusercontent.com/18087611/58347884-d373b500-7e80-11e9-8aba-beb2e9c168c9.png)
-![district](https://user-images.githubusercontent.com/18087611/58347885-d373b500-7e80-11e9-8e94-4e208aafe55f.png)
