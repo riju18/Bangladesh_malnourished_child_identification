@@ -1,5 +1,7 @@
 # bd_malnourished_child_identification
 # data: 6965
+# survey organization: WHO
+# survey year: 2014
 # features:
          age at first birth : mother's age at first birth
          
