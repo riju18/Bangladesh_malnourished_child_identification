@@ -46,7 +46,7 @@
          household_no       : how many family members 
 
 
-# identification:
+# decision class:
          
          stunting    :  child is stunting or not
          
