@@ -53,7 +53,9 @@
          underweight : child is underweight or not
          
          wasting     : child is wasting or not
-# statistics:
+# statistical analysis:
+# dataset & implementation overview
+ ![newplot (6)](https://user-images.githubusercontent.com/18087611/58347883-d2db1e80-7e80-11e9-95e0-54514a4987a6.png)
 # number of district:
  ![district](https://user-images.githubusercontent.com/18087611/58347885-d373b500-7e80-11e9-8e94-4e208aafe55f.png)
 # accuracy of stunting child:
@@ -64,6 +66,7 @@
   ![acc_was](https://user-images.githubusercontent.com/18087611/58347877-d1a9f180-7e80-11e9-89c8-d7847150de99.png)
 # stunting child with respect to mother education:
  ![newplot (3)](https://user-images.githubusercontent.com/18087611/58347878-d2428800-7e80-11e9-973b-f01e53ca3e61.png)
-![newplot (4)](https://user-images.githubusercontent.com/18087611/58347880-d2428800-7e80-11e9-95e1-6e0bf62adb6a.png)
-![newplot (5)](https://user-images.githubusercontent.com/18087611/58347881-d2428800-7e80-11e9-8515-b9879c059c69.png)
-![newplot (6)](https://user-images.githubusercontent.com/18087611/58347883-d2db1e80-7e80-11e9-95e0-54514a4987a6.png)
+# underweight child with respect to mother education:
+ ![newplot (4)](https://user-images.githubusercontent.com/18087611/58347880-d2428800-7e80-11e9-95e1-6e0bf62adb6a.png)
+# wasting child with respect to mother education:
+ ![newplot (5)](https://user-images.githubusercontent.com/18087611/58347881-d2428800-7e80-11e9-8515-b9879c059c69.png)
